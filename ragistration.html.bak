@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <center><h1>Introduction to travel & Advanture</h1></center>
+   <center><a href="home.html">Home</a> &nbsp;&nbsp;
+   <a href="destination.html">Destinations</a> &nbsp;&nbsp;
+   <a href="traver.html">Travel Blog</a>&nbsp;&nbsp;
+   <a href="travel.html">Travel Tips</a>&nbsp;&nbsp;
+   <a href="registration.html">Registration</a>&nbsp;&nbsp;
+   <a href="login.html">Login </a>&nbsp;&nbsp;
+   <a href="contact.html">Contact Us<</a><input type="text" name="">&nbsp;&nbsp;</center>
+   <hr>
+   <h2> Registration Form for user </h2>
+   <table>
+   <tr>
+	<td>Name</td>
+	<td><input type="text" name=""></td>
+   </tr>
+   <tr>
+	<td>Email</td>
+	<td><input type="email" name=""></td>
+   </tr>
+   <tr>
+	<td>Phone</td>
+	<td><input type="number" name="" min="" max=""></td>
+   </tr>
+   <tr>
+	<td>Address</td>
+	<td><input type="text" name=""></td>
+   </tr>
+   <tr>
+	<td>Username</td>
+	<td><input type="text" name=""></td>
+   </tr>
+   <tr>
+	<td>passwd</td>
+	<td><input type="password" name=""></td>
+   </tr>
+   <tr>
+   <td><input type="submit"></td>
+   <td><input type="reset"></td>
+   </tr>
+   </table>
+ </body>
+</html>

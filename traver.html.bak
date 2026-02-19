@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <center><h1>Introduction to travel & Advanture</h1></center>
+   <center><a href="home.html">Home</a> &nbsp;&nbsp;
+   <a href="destination.html">Destinations</a> &nbsp;&nbsp;
+   <a href="traver.html">Travel Blog</a>&nbsp;&nbsp;
+   <a href="travel.html">Travel Tips</a>&nbsp;&nbsp;
+   <a href="registration.html">Registration</a>&nbsp;&nbsp;
+   <a href="login.html">Login </a>&nbsp;&nbsp;
+   <a href="contact.html">Contact Us<</a>&nbsp;&nbsp;</center>
+   <hr>
+   <center><h2> Make the Trip Now </h2>
+   <hr>
+   <pre>
+	"Focus on a specific type of travel or destination to stand out.."
+	  "On my trip to japan,I discovered..."
+   </pre>
+   <hr>
+   <blockquote>"Travel expands the mind"</blockquote>
+   <video width="200" height="100" controls>
+	<source src="video.mp4" type="video/mp4">
+   </video>
+   <hr>
+   </center>
+ </body>
+</html>

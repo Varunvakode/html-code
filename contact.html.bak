@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <center><h1>Introduction to travel & Advanture</h1></center>
+   <center><a href="home.html">Home</a> &nbsp;&nbsp;
+   <a href="destination.html">Destinations</a> &nbsp;&nbsp;
+   <a href="traver.html">Travel Blog</a>&nbsp;&nbsp;
+   <a href="travel.html">Travel Tips</a>&nbsp;&nbsp;
+   <a href="ragistration.html">Registration</a>&nbsp;&nbsp;
+   <a href="login.html">Login </a>&nbsp;&nbsp;
+   <a href="contact.html">Contact Us<</a>&nbsp;&nbsp;</center>
+   <hr>
+   <h2>Company Details</h2>
+   <table>
+   <tr>
+	<td>Company Name<td>
+	<td>Travel & Adventure</td>
+   </tr>
+   <tr>
+	<td>Address</td>
+	<td>Mumbai</td>
+   </tr>
+   <tr>
+	<td>Phone</td>
+	<td>982475166</td>
+   </tr>
+   <tr>
+	<td>Email</td>
+	<td>travel12@gmail.com</td>
+   </tr>
+   </table>
+   
+   <hr>
+   <h3>form user</h3>
+   <table>
+   <tr>
+	<td>name</td>
+	<td><input type="text" name=""></td>
+   </tr>
+   <tr>
+	<td>email</td>
+	<td><input type="email" name=""></td>
+   </tr>
+   <tr>
+	<td>phone</td>
+	<td><input type="number" name="" min="" max=""></td>
+   </tr>
+   <tr>
+	<td>message</td>
+	<td><input type="text" name=""></td>
+   </tr>
+   <tr>
+   <td><input type="submit"></td>
+   </tr>
+   </table>
+   <hr>
+   <h2>Embedded Map</h2>
+   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505146.7660750952!2d114.74190810260133!3d-8.454654116000697!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali%2C%20Indonesia!5e0!3m2!1sen!2sin!4v1771338211705!5m2!1sen!2sin" width="100" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+   <hr>
+   
+ </body>
+</html>

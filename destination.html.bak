@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <hr>
+  <center><h1>Introduction to travel & Advanture</h1></center>
+   <center><a href="home.html">Home</a> &nbsp;&nbsp;
+   <a href="destination.html">Destinations</a> &nbsp;&nbsp;
+   <a href="traver.html">Travel Blog</a>&nbsp;&nbsp;
+   <a href="travel.html">Travel Tips</a>&nbsp;&nbsp;
+   <a href="registration.html">Registration</a>&nbsp;&nbsp;
+   <a href="login.html">Login </a>&nbsp;&nbsp;
+   <a href="contact.html">Contact Us<</a>&nbsp;&nbsp;</center>
+   <hr>
+   <h1> Table Compairing popular Destination </h1>
+   <form method="post" action="">
+	<center><table>
+   <tr>
+	<td>Destination</td>
+	<td>Country</td>
+	<td>Best time</td>
+   </tr>
+   <tr>
+	<td>Paris</td>
+	<td>France</td>
+	<td>Summer</td>
+   </tr>
+   <tr>
+	<td>Bali</td>
+	<td>indonesia</td>
+	<td>Spring</td>
+   </tr>
+   <tr>
+	<td>Manali</td>
+	<td>India</td>
+	<td>winter</td>
+   </tr>
+   <tr>
+	<td>bhurjkhalifa</td>
+	<td>Dubai</td>
+	<td>Anytime</td>
+   </tr>
+   <tr>
+	<td>Tajmehel</td>
+	<td>India</td>
+	<td>Summer</td>
+   </tr>
+   <tr>
+   <td>the great wall</td>
+   <td>chaina</td>
+   <td>winter</td>
+   </tr>
+   
+   </table></center>
+   </form>
+   
+   <table>
+   <tr>
+	<td><img src="https://t4.ftcdn.net/jpg/02/96/15/35/360_F_296153501_B34baBHDkFXbl5RmzxpiOumF4LHGCvAE.jpg" width="300" height="200" border="0" alt=""></td>
+	<td><img src="https://t3.ftcdn.net/jpg/02/63/19/78/360_F_263197896_NqmJWfTm7pljAVDfwl1U1gBAm3D08kCM.jpg" width="300" height="200" border="0" alt="0"></td>
+	<td><img src="https://s7ap1.scene7.com/is/image/incredibleindia/The-Best-Adventure-Experiences-in-Manali1-popular?qlt=82&ts=1726730921047" width="300" height="200" border="0" alt="0"></td>
+   </tr>
+   <tr>
+	<td><img src="https://media.istockphoto.com/id/183346577/photo/dubai-mega-city.jpg?s=612x612&w=0&k=20&c=wznnweihtUDRkg0slgTax8KViG2ewS9uV75JbQLBvgY=" width="300" height="200" border="0" alt="0"></td>
+	<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMq0Utl9O-TUtLMs4xn6n1q0jyqAYN0YB3w&s" width="" height="" border="0" alt="0"></td>
+	<td><img src="https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638892506/EducationHub/photos/the-great-wall-of-china.jpg" width="300" height="200" border="0" alt="0"></td>
+   </tr>
+   </table>
+ </body>
+</html>
